@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_LAB_1.8.cpp
+C:\Users\Користувач\source\repos\Lab_OOP_1.8\UnitTest_LAB_1.8\UnitTest_LAB_1.8.cpp(28,1): warning C4305: 'argument': truncation from 'int' to 'bool'
+     Creating library C:\Users\Користувач\source\repos\Lab_OOP_1.8\Debug\UnitTest_LAB_1.8.lib and object C:\Users\Користувач\source\repos\Lab_OOP_1.8\Debug\UnitTest_LAB_1.8.exp
+  UnitTest_LAB_1.8.vcxproj -> C:\Users\Користувач\source\repos\Lab_OOP_1.8\Debug\UnitTest_LAB_1.8.dll
